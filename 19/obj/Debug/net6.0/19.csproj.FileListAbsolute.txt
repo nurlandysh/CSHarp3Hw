@@ -1,0 +1,15 @@
+/Users/ilfatsh/Desktop/CSharp3/19/bin/Debug/net6.0/19
+/Users/ilfatsh/Desktop/CSharp3/19/bin/Debug/net6.0/19.deps.json
+/Users/ilfatsh/Desktop/CSharp3/19/bin/Debug/net6.0/19.runtimeconfig.json
+/Users/ilfatsh/Desktop/CSharp3/19/bin/Debug/net6.0/19.dll
+/Users/ilfatsh/Desktop/CSharp3/19/bin/Debug/net6.0/19.pdb
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.csproj.CoreCompileInputs.cache
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.dll
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/refint/19.dll
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.pdb
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/19.genruntimeconfig.cache
+/Users/ilfatsh/Desktop/CSharp3/19/obj/Debug/net6.0/ref/19.dll

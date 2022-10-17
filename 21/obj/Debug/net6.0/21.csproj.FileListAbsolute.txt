@@ -1,0 +1,15 @@
+/Users/ilfatsh/Desktop/CSharp3/21/bin/Debug/net6.0/21
+/Users/ilfatsh/Desktop/CSharp3/21/bin/Debug/net6.0/21.deps.json
+/Users/ilfatsh/Desktop/CSharp3/21/bin/Debug/net6.0/21.runtimeconfig.json
+/Users/ilfatsh/Desktop/CSharp3/21/bin/Debug/net6.0/21.dll
+/Users/ilfatsh/Desktop/CSharp3/21/bin/Debug/net6.0/21.pdb
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.csproj.CoreCompileInputs.cache
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.dll
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/refint/21.dll
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.pdb
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/21.genruntimeconfig.cache
+/Users/ilfatsh/Desktop/CSharp3/21/obj/Debug/net6.0/ref/21.dll
